@@ -69,7 +69,9 @@ The payload is currently undetected by windows defender, but it's easily blocked
 
 Something i don't understand is why Virus Total says that bitdefender won't classify the exe file as malicious, while Microsoft, which should technically be windows defender (?) recognizes the malware.... it should be the exact opposite but idk, you can see bitdefender on the top left corner of the second pic.
 
-As i said before, you can add a simple shikata ga nai encryption or use online tools like shoggoth or idk. Soon i will create my own simple encryption using python : ) <img align="right" src="media/vt2.png" width="250" />
+As i said before, you can add a simple shikata ga nai encryption or use online tools like shoggoth or idk. 
+
+Soon i will create my own simple encryption using python : ) <img align="right" src="media/vt2.png" width="250" />
 
 The only problem is decrypting the base64, ill have to find a way to basically use both c++ and python somehow.... 
 
