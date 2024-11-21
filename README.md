@@ -55,7 +55,7 @@ Once the victim runs the exe, a new session will pop up on meterpreter, and u ca
 
 ``` shell ```
 
-Here is an example of writing powershell code through meterpreter     --------->
+Here on the right is an example of writing powershell code through meterpreter
 
 In this example it was a simple message box error, which worked smoothly.
 
