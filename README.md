@@ -1,5 +1,5 @@
 # Self-Injection Reverse Shell Malware (Undetected)
-Self Injection Malware (trojan), currently UNDETECTED by windows defender, it creates a reverse shell on a target machine
+Self Injection Malware (trojan), currently undetected by windows defender, it creates a reverse shell on a target machine
 
 # 💻 Code
 This program injects base64 code into a self created process on the target machine. 
