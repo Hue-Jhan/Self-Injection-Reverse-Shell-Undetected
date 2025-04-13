@@ -46,7 +46,7 @@ In the future i will attempt to create my own encryption, since the well known o
 
 - **Shell**
 
-You can embed the code into pretty much anything, you can even use tools to mask the exe file into a mp4 or jpg file, complete with a new icon and a name, even the extension can be masked.
+You can embed the code into pretty much anything, you can use tools to mask the exe file into a mp4 or jpg file, complete with a new icon and a name, the extension can be masked too.
 Once the victim runs the exe, a new session will pop up on meterpreter, and u can view it and use it with: <img align="right" src="media/rev1.jpg" width="400" />
 
 ``` sessions ```
@@ -72,8 +72,6 @@ Something i don't understand is why Virus Total says that bitdefender won't clas
 As i said before, you can add a simple shikata ga nai encryption or use online tools like shoggoth or idk. <img align="right" src="media/vt2.png" width="260" />
 
 Soon i will create my own simple encryption using python : )
-
-The only problem is decrypting the base64, ill have to find a way to basically use both c++ and python somehow.... 
 
 Last thing: i run the malware using Termux, an android emulator for linux, because i didnt wanna setup networking stuff for my kali vm, cuz i had some issues trying to establish the session.
 
