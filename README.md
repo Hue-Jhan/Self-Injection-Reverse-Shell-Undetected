@@ -67,9 +67,9 @@ In this example it was a simple message box error, which worked smoothly.
 
 <img align="right" src="media/vt1.png" width="350" />
 
-The payload is currently undetected by windows defender, but it's easily blocked by Bitdefender, even the free trial.
+The payload is currently detected by windows defender and easily blocked by Bitdefender, even the free trial.
 
-Something i don't understand is why Virus Total says that bitdefender won't classify the exe file as malicious, while Microsoft, which should technically be windows defender (?) recognizes the malware.... it should be the exact opposite but idk, you can see bitdefender on the top left corner of the second pic.
+Something i don't understand is why Virus Total says that bitdefender won't classify the exe file as malicious, while Microsoft, which should technically be windows defender (?) recognizes the malware.... you can see bitdefender on the top left corner of the second pic.
 
 As i said before, you can add a simple shikata ga nai encryption or use online tools like shoggoth or idk. <img align="right" src="media/vt2.png" width="260" />
 
